@@ -17,6 +17,8 @@ Convert this text into emojis: "<text>"
 
 <details><summary>Write dialogues for a movie</summary>
 
+### Write dialogues for a movie
+
 ```HTML
 Write dialogues for a <movie-type> movie starring <actor-name>
 ```
@@ -25,6 +27,8 @@ Write dialogues for a <movie-type> movie starring <actor-name>
 
 
 <details><summary>Explain something in the style of a person or character</summary>
+
+# Explain something in the style of a person or character
 
 ```HTML
 Explain <something-to-explain> in the style of <person-or-character>
