@@ -15,6 +15,25 @@ Convert this text into emojis: "<text>"
 
 
 
+<details><summary>Write dialogues for a movie</summary>
+
+```HTML
+Write dialogues for a <movie-type> movie starring <actor-name>
+```
+<br></details>
+
+
+
+<details><summary>Explain something in the style of a person or character</summary>
+
+```HTML
+Explain <something-to-explain> in the style of <person-or-character>
+```
+
+<br></details>
+
+
+
 <details><summary>Write a reference for an imaginary programming language</summary>
 
 ### Write a reference for an imaginary programming language
