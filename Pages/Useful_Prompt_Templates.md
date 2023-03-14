@@ -3,15 +3,19 @@
 <br>
 
 
+<details><summary>Generate a list of words that range from one word to another</summary>
+
 ### Generate a list of words that range from one word to another
 
 ```HTML
 Write a list of words ranging from <word1> to <word2>
 ```
 
+<br></details>
 
-<br><hr><br>
 
+
+<details><summary>Generate a list of words to extend a given list of words</summary>
 
 ### Generate a list of words to extend a given list of words
 
@@ -55,15 +59,19 @@ Only write items that are a type of "thing"
 Only write items that fall under the category "category"
 ```
 
+<br></details>
 
-<br><hr><br>
 
+
+<details><summary>Describe the visual properties of an object</summary>
 
 ### Describe the visual properties of an object
 
 ```HTML
 Describe the physical qualities and visuals of <object> in painstaking detail
 ```
+
+<br></details>
 
 
 <hr><!--------------->

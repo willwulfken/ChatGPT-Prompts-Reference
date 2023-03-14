@@ -3,15 +3,19 @@
 <br>
 
 
+<details><summary>Convert text into emojis</summary>
+
 ### Convert text into emojis
 
 ```HTML
 Convert this text into emojis: "<text>"
 ```
 
+<br></details>
 
-<br><hr><br>
 
+
+<details><summary>Write a reference for an imaginary programming language</summary>
 
 ### Write a reference for an imaginary programming language
 
@@ -27,9 +31,11 @@ Write a reference for a programming language called "<programming-language-name>
 (The whole programming language is made out of <thing>)
 ```
 
+<br></details>
 
-<br><hr><br>
 
+
+<details><summary>Write a program in an imaginary programming language</summary>
 
 ### Write a program in an imaginary programming language
 
@@ -50,7 +56,7 @@ The keywords are things that <person-or-character> says
 The syntax reads in a way similar to <thing>
 ```
 
-
+<br></details>
 
 
 <hr><!--------------->
