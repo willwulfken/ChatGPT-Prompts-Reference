@@ -3,7 +3,7 @@
 <br>
 
 
-<details><summary>Convert text into emojis</summary>
+<details><summary>😀 Convert text into emojis</summary>
 
 ### Convert text into emojis
 
@@ -15,7 +15,7 @@ Convert this text into emojis: "<text>"
 
 
 
-<details><summary>Write dialogues for a movie</summary>
+<details><summary>🎞 Write dialogues for a movie</summary>
 
 ### Write dialogues for a movie
 
@@ -26,7 +26,7 @@ Write dialogues for a <movie-type> movie starring <actor-name>
 
 
 
-<details><summary>Explain something in the style of a person or character</summary>
+<details><summary>💬 Explain something in the style of a person or character</summary>
 
 ### Explain something in the style of a person or character
 
@@ -38,7 +38,7 @@ Explain <something-to-explain> in the style of <person-or-character>
 
 
 
-<details><summary>Write a reference for an imaginary programming language</summary>
+<details><summary>👨‍💻 Write a reference for an imaginary programming language</summary>
 
 ### Write a reference for an imaginary programming language
 
@@ -58,7 +58,7 @@ Write a reference for a programming language called "<programming-language-name>
 
 
 
-<details><summary>Write a program in an imaginary programming language</summary>
+<details><summary>👨‍💻 Write a program in an imaginary programming language</summary>
 
 ### Write a program in an imaginary programming language
 

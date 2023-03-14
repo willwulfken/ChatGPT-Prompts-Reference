@@ -2,7 +2,7 @@
 
 <br>
 
-<details><summary>Debug your code in any programming language</summary>
+<details><summary>👨‍💻 Debug your code in any programming language</summary>
 
 ### Debug your code in any programming language
 #### (May not always print out the correct output, however it does work very well for small programs)

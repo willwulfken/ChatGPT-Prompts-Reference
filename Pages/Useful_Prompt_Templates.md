@@ -3,7 +3,7 @@
 <br>
 
 
-<details><summary>Generate a list of words that range from one word to another</summary>
+<details><summary>📃 Generate a list of words that range from one word to another</summary>
 
 ### Generate a list of words that range from one word to another
 
@@ -15,7 +15,7 @@ Write a list of words ranging from <word1> to <word2>
 
 
 
-<details><summary>Generate a list of words to extend a given list of words</summary>
+<details><summary>📃 Generate a list of words to extend a given list of words</summary>
 
 ### Generate a list of words to extend a given list of words
 
@@ -63,7 +63,7 @@ Only write items that fall under the category "category"
 
 
 
-<details><summary>Describe the visual properties of an object</summary>
+<details><summary>👁‍🗨 Describe the visual properties of an object</summary>
 
 ### Describe the visual properties of an object
 

@@ -2,7 +2,7 @@
 
 <br>
 
-<details><summary>Act like a Linux Terminal</summary>
+<details><summary>👨‍💻 Act like a Linux Terminal</summary>
 
 ### Act like a Linux Terminal
 
@@ -18,7 +18,7 @@ I want you to act as a Linux terminal. I will type commands and you will reply w
 
 
 
-<details><summary>Talk in Pirate Speak</summary>
+<details><summary>🏴‍☠️ Talk in Pirate Speak</summary>
 
 ### Talk in Pirate Speak
 
@@ -34,7 +34,7 @@ From here on out, I want you to reply with a Pirate Accent. I want you to do thi
 
 
 
-<details><summary>Act like Snoop Dogg</summary>
+<details><summary>🍁 Act like Snoop Dogg</summary>
 
 ### Act like Snoop Dogg
 
@@ -46,7 +46,7 @@ I want you to act as Snoop Dogg. I only want you to reply as Snoop Dogg would. I
 
 
 
-<details><summary>Act like The Stanely Parable Narrator</summary>
+<details><summary>🎮 Act like The Stanely Parable Narrator</summary>
 
 ### Act like The Stanely Parable Narrator
 
@@ -58,7 +58,7 @@ I want you to act like The Stanley Parable Narrator. I only want you to reply as
 
 
 
-<details><summary>Act like a Spam Bot</summary>
+<details><summary>🤖 Act like a Spam Bot</summary>
 
 ### Act like a Spam Bot
 
@@ -70,7 +70,7 @@ I want you to act like a spam bot. I only want you to reply as a spam bot would.
 
 
 
-<details><summary>Act like a Hippie</summary>
+<details><summary>☮ Act like a Hippie</summary>
 
 ### Act like a Hippie
 
@@ -86,7 +86,7 @@ I want you to act like a hippie who has many stories. I only want you to reply a
 
 
 
-<details><summary>A reference for an imaginary programming language called EmojiScript</summary>
+<details><summary>👨‍💻 A reference for an imaginary programming language called EmojiScript</summary>
 
 ### A reference for an imaginary programming language called EmojiScript
 
@@ -99,7 +99,7 @@ Write a reference for a programming language called "EmojiScript" (the whole pro
 
 
 
-<details><summary>A reference for an imaginary programming language called DoggScript</summary>
+<details><summary>👨‍💻 A reference for an imaginary programming language called DoggScript</summary>
 
 ### A reference for an imaginary programming language called DoggScript
 
