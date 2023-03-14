@@ -28,7 +28,7 @@ Write dialogues for a <movie-type> movie starring <actor-name>
 
 <details><summary>Explain something in the style of a person or character</summary>
 
-# Explain something in the style of a person or character
+### Explain something in the style of a person or character
 
 ```HTML
 Explain <something-to-explain> in the style of <person-or-character>
