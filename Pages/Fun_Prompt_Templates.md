@@ -38,6 +38,18 @@ Explain <something-to-explain> in the style of <person-or-character>
 
 
 
+<details><summary>💬 Explain something in meme captions</summary>
+
+### Explain something in meme captions
+
+```HTML
+Explain <something-to-explain> in meme captions
+```
+
+<br></details>
+
+
+
 <details><summary>👨‍💻 Write a reference for an imaginary programming language</summary>
 
 ### Write a reference for an imaginary programming language

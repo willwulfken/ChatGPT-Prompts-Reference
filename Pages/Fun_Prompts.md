@@ -41,6 +41,17 @@ From now on, talk in uwu text
 <br></details>
 
 
+<details><summary>🍙 Make a super UwU summary of a topic</summary>
+
+### Make a super UwU summary of a topic
+
+```
+Can you make a super UwU Kawaii Niko summary of a topic that is not fitting of the style of communication. Make it super super UwU Kawaii with text slang interjections in it.
+```
+
+<br></details>
+
+
 
 <hr>
 
