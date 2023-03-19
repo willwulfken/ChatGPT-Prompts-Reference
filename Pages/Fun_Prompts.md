@@ -30,6 +30,18 @@ From here on out, I want you to reply with a Pirate Accent. I want you to do thi
 
 
 
+<details><summary>🍙 Talk in UwU text</summary>
+
+### Talk in UwU text
+
+```
+From now on, talk in uwu text
+```
+
+<br></details>
+
+
+
 <hr>
 
 
